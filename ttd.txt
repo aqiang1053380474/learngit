@@ -1,3 +1,0 @@
-This is a new typeof txt file.
-name	
-email
